@@ -1,0 +1,29 @@
+h1 {
+  color: silver;
+
+}
+p {
+  color: red;
+}
+
+body{
+  background-color: pink;
+}
+.green{
+  color:green;
+}
+
+.img-one{
+  width:400px;
+  height:400px;
+}
+
+.myprettyface{
+  background-image: url(file:///E:/my%20babies/5659907cb6b6540697da2c84f3d0a053.jpg);
+background-size: 500px;
+background-position: bottom center;
+height: 700px;
+  width: 100%;
+
+
+}
